@@ -1,6 +1,7 @@
 - 👋 Hi, I’m priyanka singh
 - 👀 I’m interested in AWS DevOps profile
-- 🌱 I have 3+ years of experiance in the said profile 
+- 🌱 I have 3+ years of experiance in the said profile . Total experience - 6 + years.
+- My skills are Docker, Jenkins, Git, Sonarqube, ELK, NFS, AWS, Mongodb, Mariadb, Postgresql, Kubernetes, Terafform, Ansible.
 - 💞️ I’m looking for a Job in the same profile
 - 📫 You can reach me at priyankasingh_06@yahoo.com
 
